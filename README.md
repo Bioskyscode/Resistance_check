@@ -25,7 +25,7 @@ Procedure:
 1. The connections are illustrated below.
 2. Then we used a cable to connect the embedded system with the computer.
 3. After we run the code on the Arduino IDE.
-4. The results will be displayed
+4. The results will be displayed.
 ![Resistance Check](./images/ResistanceCheck.png)
 
 ## Expected Solution
