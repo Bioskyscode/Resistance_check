@@ -12,8 +12,8 @@ The system is designed to do a parallel resistance check.
 
 ## Design Approach
 
-The resitors are connected on the resistor board.
-\n The cables will be used to connect the resistors with the arduino.
+- The resitors are connected on the resistor board.
+- The cables will be used to connect the resistors with the arduino.
 
 We used:
 1. the red cable to connect the 5v to the resistor with the known value.
