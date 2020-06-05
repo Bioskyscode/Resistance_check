@@ -8,7 +8,7 @@ The system is designed to do a parallel resistance check.
 2. Resistor Board
 3. Cables
 4. Unknown Value Resistors
-5. 1k, 10k, 100k ohm Resistors
+5. 10k ohm Resistors
 
 ## Design Approach
 
