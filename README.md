@@ -30,5 +30,3 @@ Procedure:
 
 ## Expected Solution
 Display values of the resistors.
-
-Last change: 09.12.2020
